@@ -2,7 +2,18 @@
 
 https://github.com/Ashishupadhyaygit0001/Quine-Mccluskey-Minimization-Algorithm/assets/161508428/ff66f2e3-95b9-4233-99b9-d8b2edde2aab
 
-
+Enter the number of bits: 4<br>
+Enter the number of MinTerms: 8<br>
+Enter MinTerm: 0<br>
+Enter MinTerm: 1<br>
+Enter MinTerm: 2<br>
+Enter MinTerm: 8<br>
+Enter MinTerm: 10<br>
+Enter MinTerm: 11<br>
+Enter MinTerm: 14<br>
+Enter MinTerm: 15<br>
+<b>Minimized Boolean Expression:</b><br>
+A'B'C' + B'D' + AC<br>
 ## Overview
 This program implements the Quine-McCluskey algorithm to minimize Boolean expressions from given minterms.
 
