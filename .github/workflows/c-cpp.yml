@@ -20,4 +20,4 @@ jobs:
         g++ -std=c++17 -o quine_mccluskey main.cpp
     - name: Test
       run: |
-        ./quine_mccluskey
+        ./quine.cpp
