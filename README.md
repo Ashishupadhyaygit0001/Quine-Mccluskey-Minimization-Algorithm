@@ -1,6 +1,7 @@
 # Quine-McCluskey Algorithm Implementation
-![image](https://github.com/Ashishupadhyaygit0001/Quine-Mccluskey-Minimization-Algorithm/assets/161508428/e3830685-a2a1-4a8e-b09a-3479575335c6)
 
+
+![WhatsApp Image 2024-06-29 at 18 35 42_9a39312e](https://github.com/Ashishupadhyaygit0001/Quine-Mccluskey-Minimization-Algorithm/assets/161508428/38cabcc7-ccf2-498e-8f54-c04e3b8f4e05)
 
 ## Overview
 This program implements the Quine-McCluskey algorithm to minimize Boolean expressions from given minterms.
