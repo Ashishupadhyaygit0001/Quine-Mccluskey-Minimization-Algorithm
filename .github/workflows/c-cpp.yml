@@ -13,11 +13,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: configure
-      run: ./configure
-    - name: make
-      run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
+    - name: Set up C++ environment
+      run: sudo apt-get install -y g++ make
+    - name: Build
+      run: |
+        g++ -std=c++17 -o quine_mccluskey main.cpp
+    - name: Test
+      run: |
+        ./quine_mccluskey
